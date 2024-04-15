@@ -7,5 +7,6 @@ This function uses api data from [randommer.io](https://randomer.io)
  Simply copy the .bas file into your Excel spreadsheet and type randomFirstName() or randomSurName()
 
  ## Screenshots
- (sreen1.png)(screen2.png)
+ ![](./sreen1.png)
+ ![](./screen2.png)
 
